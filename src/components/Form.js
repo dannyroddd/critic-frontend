@@ -1,5 +1,6 @@
 // import React from "react"
 
+// //global state
 // import { useAppState } from "../AppState"
 
 // const Form = (props) => {

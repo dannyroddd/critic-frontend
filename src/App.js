@@ -99,9 +99,9 @@ fetch(URL + `${editData.id}/`,{
 } 
   return (
     <div className="App">
-  <h1>Welcome to Restaurant Critics! Open for all to post their Restaurant Reviews.</h1>
+  <h2>Welcome to Restaurant Critics! Open for all to post their Restaurant Reviews!</h2>
 <form style = {{width: "50%",
-margin: "0 auto"}}>
+margin: "0 auto", padding: "5px"}}>
 <Grid  container  >
     <Grid  item xs = {12}>
       
